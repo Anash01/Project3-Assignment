@@ -1,2 +1,2 @@
 # Project3-Assignment
-Job portal with login page 
+Job portal with candidates and recruiter login page 
